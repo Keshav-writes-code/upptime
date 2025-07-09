@@ -3,16 +3,16 @@ owner: keshav-writes-code # Your GitHub organization or username, where this rep
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
+  - name: Portfolio
+    url: https://keshav.is-a.dev/
+  - name: FreqKnow
+    url: https://keshav.is-a.dev/FreqKnow/
+  - name: Learning Trade
+    url: https://keshav.is-a.dev/learning_trade/
+  - name: NeuralNetBuilder
+    url: https://keshav.is-a.dev/NeuralNetBuilder/
+  - name: Digit Recognizer
+    url: https://keshav.is-a.dev/digit_recognizer/
     port: 80
     check: "tcp-ping"
     ipv6: true
