@@ -13,9 +13,6 @@ sites:
     url: https://keshav.is-a.dev/NeuralNetBuilder/
   - name: Digit Recognizer
     url: https://keshav.is-a.dev/digit_recognizer/
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
