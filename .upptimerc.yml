@@ -13,6 +13,10 @@ sites:
     url: https://keshav.is-a.dev/NeuralNetBuilder/
   - name: Digit Recognizer
     url: https://keshav.is-a.dev/digit_recognizer/
+  - name: GDM Links
+    url: https://gdm-links.vercel.app/
+  - name: SMS Sewa Counter
+    url: https://sms-count.vercel.app/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
