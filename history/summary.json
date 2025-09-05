@@ -77,11 +77,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/keshav.is-a.dev.ico",
     "slug": "digit-recognizer",
     "status": "up",
-    "uptime": "73.90%",
+    "uptime": "74.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "73.90%",
+    "uptimeYear": "74.02%",
     "time": 61,
     "timeDay": 69,
     "timeWeek": 65,
@@ -111,35 +111,39 @@
     "url": "https://gdm-links.vercel.app/",
     "icon": "https://icons.duckduckgo.com/ip3/gdm-links.vercel.app.ico",
     "slug": "gdm-links",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 144,
     "timeDay": 144,
     "timeWeek": 144,
     "timeMonth": 144,
     "timeYear": 144,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-05": 0
+    }
   },
   {
     "name": "SMS Sewa Counter",
     "url": "https://sms-count.vercel.app/",
     "icon": "https://icons.duckduckgo.com/ip3/sms-count.vercel.app.ico",
     "slug": "sms-sewa-counter",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 193,
     "timeDay": 193,
     "timeWeek": 193,
     "timeMonth": 193,
     "timeYear": 193,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-05": 0
+    }
   }
 ]
